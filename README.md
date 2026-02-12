@@ -39,9 +39,13 @@ Challenges addressed:
 
 ## 6. System Model
 -Architecture Diagram: Shows the system structure with Frontend, Backend, Database, and Payment Gateway, illustrating data flow between components.
+
 -Class Diagram: Represents main entities like User, Doctor, Patient, Prescription, and Appointment, showing their relationships.
+
 -Activity Diagram: Displays workflow of core operations such as login, symptom input, prescription generation, consultation, and payment.
+
 -Sequence Diagram: Illustrates interaction flow between Patient, Doctor, System, and Database during tasks like appointment booking or messaging.
+
 -UI/UX Wireframes: Presents main screens and interface design for Login, Dashboard, Symptom Input, Doctor Chat, Appointment, and Payment pages.
 
 ---
