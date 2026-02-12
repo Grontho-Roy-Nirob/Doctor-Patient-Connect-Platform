@@ -54,8 +54,7 @@ Challenges addressed:
 - Frontend: React.js  
 - Backend: Node.js / Express.js  
 - Database: Firebase / Firestore  
-- Authentication: JWT / Firebase Auth  
-- Payment: SSLCommerz  
+- Authentication: JWT / Firebase Auth   
 
 ---
 
